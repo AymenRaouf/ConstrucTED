@@ -1,0 +1,17 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this software, please cite the following paper."
+authors:
+  - family-names: Bazouzi
+    given-names: Aymen
+  - family-names: Miklos
+    given-names: Zoltan
+  - family-names: Foursov
+    given-names: Mickaël
+  - family-names: Le Capitaine
+    given-names: Hoël
+title: "ConstrucTED : Constructing Tailored Educational Datasets From Online Courses"
+conference: "Proceedings of the 16th International Conference on Computer Supported Education (CSEDU)"
+year: 2024
+doi: "10.5220/0012745000003693"
+url: "https://www.scitepress.org/Link.aspx?doi=10.5220/0012745000003693"

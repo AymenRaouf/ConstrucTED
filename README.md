@@ -44,6 +44,34 @@ to discuss what you would like to change.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+
+## Citation
+
+If you use this code in your research or projects, please cite the following article:
+
+**ConstrucTED : Constructing Tailored Educational Datasets From Online Courses**  
+
+*Aymen Bazouzi, Zoltan Miklos, Mickaël Foursov, Hoël Le Capitaine.*  
+
+Proceedings of the 16th International Conference on Computer Supported Education (CSEDU), 2024.
+
+#### 📖 BibTeX
+```bibtex
+@conference{ekm24,
+    author={Aymen Bazouzi and Zoltan Miklos and Mickaël Foursov and Hoël {Le Capitaine}},
+    title={ConstrucTED: Constructing Tailored Educational Datasets from Online Courses},
+    booktitle={Proceedings of the 16th International Conference on Computer Supported Education - Volume 1: EKM},
+    year={2024},
+    pages={645-652},
+    publisher={SciTePress},
+    organization={INSTICC},
+    doi={10.5220/0012745000003693},
+    isbn={978-989-758-697-2},
+    issn={2184-5026},
+    }
+```
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
